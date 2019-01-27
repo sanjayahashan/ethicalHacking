@@ -14,6 +14,7 @@ List will be updated
 | Module | Description |
 | ------ | ------ |
 | MAC Changer | Simple module to change the MAC address |
+| Network Scanner | ARP Scanner to find out MAC addresses of a given IP or range |
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
